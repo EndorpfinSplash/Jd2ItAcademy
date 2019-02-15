@@ -1,3 +1,50 @@
-Ctrl+Alt+L - форматирование кода
-Ctrl+Alt+O - удаление лишних импортов
-SonarLint - плагин
+=================================================================DAY 1========================================================================
+Lesson 1[установка софта]:
+
+How to install jdk (Как установить Java JDK в Windows 10 (с JAVA_HOME)):
+https://www.youtube.com/watch?v=Wp6uS7CmivE
+
+Download JDK:
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+How to install apache tomcat web server on windows
+https://www.youtube.com/watch?v=pKMgr8uNvGM
+
+Download Intellij Idea:
+https://www.jetbrains.com/idea/download/?utm_source=product&utm_medium=link&utm_campaign=IU&utm_content=2018.2#section=windows
+
+Java EE 1: Servlets 1: Установка Tomcat
+https://www.youtube.com/watch?v=FE7ygm8CTaY&list=PL786bPIlqEjRVDNpxzgLv9iMmB4y5kMfT
+
+Java tutorials:
+http://tutorials.jenkov.com/java/your-first-java-app.html
+
+Online coding:
+https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bdifficulty%5D%5B%5D=easy&badge_type=java - HackerRank
+
+
+=============================================================================================================================================
+Cтруктуры данных:
+https://habr.com/post/162017/
++ ArrayList это список, реализованный на основе массива, а LinkedList — это классический связный список, основанный на объектах с ссылками между ними.
+
+
+
+https://habr.com/company/luxoft/blog/270383/
+https://www.youtube.com/watch?v=-S_huEuNJiU
+http://www.skipy.ru/technics/serialization.html
+https://habr.com/post/277669/
+https://www.youtube.com/watch?v=s032s29-NUU
+https://www.youtube.com/watch?v=g7ynfDFoCL4
+https://habr.com/post/210288/
+https://habr.com/post/129494/
+https://habr.com/post/305926/
+
+БД SQL ACID:
+https://ru.wikipedia.org/wiki/ACID
+https://habr.com/company/htmlacademy/blog/254825/
+
+
+Многопоточность (параллельные вычисления):
+
+=================================================================DAY 2========================================================================
