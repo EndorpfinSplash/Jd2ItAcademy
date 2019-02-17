@@ -7,11 +7,11 @@ https://www.youtube.com/watch?v=Wp6uS7CmivE
 Download JDK:
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-How to install apache tomcat web server on windows
-https://www.youtube.com/watch?v=pKMgr8uNvGM
-
 Download Intellij Idea:
 https://www.jetbrains.com/idea/download/?utm_source=product&utm_medium=link&utm_campaign=IU&utm_content=2018.2#section=windows
+
+How to install apache tomcat web server on windows
+https://www.youtube.com/watch?v=pKMgr8uNvGM
 
 Java EE 1: Servlets 1: Установка Tomcat
 https://www.youtube.com/watch?v=FE7ygm8CTaY&list=PL786bPIlqEjRVDNpxzgLv9iMmB4y5kMfT
@@ -28,23 +28,41 @@ Cтруктуры данных:
 https://habr.com/post/162017/
 + ArrayList это список, реализованный на основе массива, а LinkedList — это классический связный список, основанный на объектах с ссылками между ними.
 
-
-
-https://habr.com/company/luxoft/blog/270383/
+Коллекции [Ткач]:
 https://www.youtube.com/watch?v=-S_huEuNJiU
+--------------------------------------------------------------------------------------------------------------
+
 http://www.skipy.ru/technics/serialization.html
-https://habr.com/post/277669/
-https://www.youtube.com/watch?v=s032s29-NUU
-https://www.youtube.com/watch?v=g7ynfDFoCL4
+
+Шаблоны проектирования:
 https://habr.com/post/210288/
+- что в UML значит знак решетки перед методом?
+
+
+Правильный Singleton в Java:
 https://habr.com/post/129494/
-https://habr.com/post/305926/
 
 БД SQL ACID:
 https://ru.wikipedia.org/wiki/ACID
+
+Как думать на SQL?
+https://habr.com/post/305926/
+
+
+Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com:
 https://habr.com/company/htmlacademy/blog/254825/
 
+Stream API:
+https://habr.com/company/luxoft/blog/270383/
 
+--------------------------------------------------------------------------------------------------------------
 Многопоточность (параллельные вычисления):
+Deadlock - Concurrency #1 [Ткач]
+https://www.youtube.com/watch?v=s032s29-NUU
 
+Неблокирующая синхронизация - Concurrency #2 [Ткач]
+https://www.youtube.com/watch?v=g7ynfDFoCL4
+
+Синхронизаторы:
+https://habr.com/post/277669/
 =================================================================DAY 2========================================================================
