@@ -48,6 +48,8 @@ https://ru.wikipedia.org/wiki/ACID
 Как думать на SQL?
 https://habr.com/post/305926/
 
+Простым языком об HTTP:
+https://habr.com/ru/post/215117/
 
 Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com:
 https://habr.com/company/htmlacademy/blog/254825/
