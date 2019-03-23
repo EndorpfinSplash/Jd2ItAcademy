@@ -1,0 +1,20 @@
+Установка Томката:
+
+download Apache Tomcat
+unpack it into c:\Tomcat
+
+!!! запустить c:\Tomcat\apache-tomcat-9.0.16\bin\startup.bat !!!
+в браузере зайти на адрес http://localhost:8080/
+
+-------------------------------------------------------
+создаем приложение:
+переходим в каталог для приложений c:\Tomcat\apache-tomcat-9.0.16\webapps\
+создаем там каталог для нового приложения app1 c файлом index.jsp
+c:\Tomcat\apache-tomcat-9.0.16\webapps\app1\index.jsp
+
+файл должен быть c текстом:
+<%="Hello world!"%>
+
+проверяем работу приложения по адресу:
+-------------------------------------------------------
+http://localhost:8080/app1/
