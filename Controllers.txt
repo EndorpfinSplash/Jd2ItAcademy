@@ -1,0 +1,8 @@
+
+@CrossOrigin
+@RequestMapping(value = "/rest/users")
+
+
+@ModelAttribute - формирует экзепляр классиа из URL.
+@RequestBody - формирует из тела запроса.
+https://stackoverflow.com/questions/21824012/spring-modelattribute-vs-requestbody
