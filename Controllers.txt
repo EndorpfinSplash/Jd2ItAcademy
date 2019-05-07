@@ -6,3 +6,20 @@
 @ModelAttribute - формирует экзепляр классиа из URL.
 @RequestBody - формирует из тела запроса.
 https://stackoverflow.com/questions/21824012/spring-modelattribute-vs-requestbody
+
+
+        зависимости для раоботы SpringMVC и их аннотаций
+-----------------------------------------------------
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+-----------------------------------------------------
