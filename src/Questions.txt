@@ -1,3 +1,8 @@
 com.htp.service.UserDetailsServiceImpl - how it works ?
 
     @Primary - DB config
+
+
+Swagger Config
+Spring Boot
+Web Security
