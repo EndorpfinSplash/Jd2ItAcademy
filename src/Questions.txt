@@ -9,3 +9,18 @@ Web Security
 
 
 VEINIK!! java.by
+
+
+
+    @PutMapping
+    @RequestMapping(value = "/{id}")
+ !! @ResponseStatus(HttpStatus.OK)
+    public ResponseEntity<Poll> createPoll(@PathVariable Long id,
+                                           @RequestBody PollCreateRequest req) {
+        Poll poll = pollDao.findById(id);
+        poll.setPollQuestion(req.getPollQuestion());
+        Poll updated = pollDao.update(poll);
+ !!     return new ResponseEntity<>(updated,
+                                    HttpStatus.OK  ----- тоже самое что и @ResponseStatus(HttpStatus.OK) ?!?!?
+                                    );
+    }

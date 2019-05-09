@@ -23,3 +23,13 @@ https://stackoverflow.com/questions/21824012/spring-modelattribute-vs-requestbod
             <version>${spring.version}</version>
         </dependency>
 -----------------------------------------------------
+
+LocalSessionFactoryBean -- на 3ем уровне вложенности зависимости
+
+    <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+
+
+Повторяющийся код для save & update entity
