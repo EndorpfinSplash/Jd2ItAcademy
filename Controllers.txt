@@ -33,3 +33,12 @@ LocalSessionFactoryBean -- на 3ем уровне вложенности зав
 
 
 Повторяющийся код для save & update entity
+
+
+-------------------------------------------------------------
+
+@JsonManagedReference
+@JsonBackReference
+@JsonIgnore
+
+NativeQuery
